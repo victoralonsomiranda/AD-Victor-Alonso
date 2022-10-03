@@ -1,0 +1,14 @@
+
+.puerta:hover{
+	background: url(img/puertaopen.png);
+	width: 200px;
+	height: 350px;
+}
+
+.puerta{
+	background-image: url(img/puerta.png);
+	width: 200px;
+	height: 350px;
+	display: inline-block;
+	margin: 20px;
+}
